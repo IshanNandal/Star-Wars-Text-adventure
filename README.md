@@ -1,4 +1,4 @@
-A text based Star Wars adventure. 
+A text based Star Wars adventure created with Java. 
 
 Fascinating features include:
 
