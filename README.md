@@ -1,31 +1,19 @@
-A text based Star Wars adventure. Fascinating features include:
+A text based Star Wars adventure. 
 
-#### Leave Affordance:
-- Deliverable (design + dev)
-- Testing
-- Reviewing
+Fascinating features include:
 
-#### Lightsabres:
-- Deliverable (design + dev)
-- Testing
-- Reviewing
-#### Ben Kenobi:
-- Deliverable (design + dev)
-- Testing
-- Reviewing
+#### Lightsabres
 
-#### Force ability:
-- Deliverable (design + dev)
-- Testing
-- Reviewing
+#### Ben Kenobi
 
-#### Droids:
-- Deliverable (design + dev)
-- Testing
-- Reviewing
+#### Force ability
 
-#### Make Reservoirs damageable
+#### Droids
 
-#### Grenade
+#### Damageable reservoirs
+
+#### Grenades
 
 #### Jawa Sandcrawler
+
+#### Leave Affordance
