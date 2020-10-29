@@ -1,54 +1,31 @@
-# NullPointerException
------
-## Work Breakdown Agreement (WBA)
+A text based Star Wars adventure. Fascinating features include:
 
 #### Leave Affordance:
-- Deliverable (design + dev): Ishan
-- Testing: Danny
-- Reviewing: Danny
+- Deliverable (design + dev)
+- Testing
+- Reviewing
 
 #### Lightsabres:
-- Deliverable (design + dev): Ishan
-- Testing: Danny
-- Reviewing: Danny
-
+- Deliverable (design + dev)
+- Testing
+- Reviewing
 #### Ben Kenobi:
-- Deliverable (design + dev): Ishan
-- Testing: Danny
-- Reviewing: Danny
+- Deliverable (design + dev)
+- Testing
+- Reviewing
 
 #### Force ability:
-- Deliverable (design + dev): Danny
-- Testing: Ishan
-- Reviewing: Ishan
+- Deliverable (design + dev)
+- Testing
+- Reviewing
 
 #### Droids:
-- Deliverable (design + dev): Danny
-- Testing: Danny
-- Reviewing: Danny
-
-
-
- Danny: I accept this Work Breakdown Agreement
- 
- Ishan: I accept this Work Breakdown Agreement
-
-
-## Work Breakdown Agreement (WBA) for Assignment 3
-
+- Deliverable (design + dev)
+- Testing
+- Reviewing
 
 #### Make Reservoirs damageable
-- Danny
-
 
 #### Grenade
-- Ishan
-
 
 #### Jawa Sandcrawler
-- Danny
-
-
-Danny: I accept this Work Breakdown Agreement
-
-Ishan: I accept this Work Breakdown Agreement
